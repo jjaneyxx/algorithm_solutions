@@ -1,0 +1,24 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":upside_down_face:",
+    ":neutral_face:",
+    ":bulb:",
+    ":thinking:",
+    ":star2:",
+    ":blue_book:",
+    ":baggage_claim:",
+    ":dog2:",
+    ":smile:",
+    ":grin:",
+    ":smile_cat:",
+    ":computer:",
+    ":smiley:",
+    ":anguished:",
+    ":grey_question:",
+    ":joy:"
+  ]
+}

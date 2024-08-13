@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "ebe4932c3c1bf248",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9bad641d2be589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1f524a179d32eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/baekjoon/1152.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c05c594680479418",
+    "type": "split",
+    "children": [
+      {
+        "id": "096fe8ab8200ead5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85ee8add37e6aa62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "d8a4aff298b68bfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3062045ef571c64a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9d6c7cc4155d7c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a85731976196ed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2cef23b820ec861",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithm/baekjoon/1152.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d51c0827ffaf03a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algorithm/baekjoon/1152.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d04b4a4f9918a7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b594b72c52d38ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algorithm/baekjoon/1152.md"
+              }
+            }
+          },
+          {
+            "id": "78f2aa3d0e4b223f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "e1f524a179d32eaf",
+  "lastOpenFiles": [
+    "12일까지 백준/Baekjoon/Learned.md",
+    "12일까지 백준/Baekjoon/10818. 최소, 최대.md",
+    "Algorithm/baekjoon/1152.md",
+    "알고리즘/백준/1152.md",
+    "Algorithm/baekjoon",
+    "gitignore",
+    "12일까지 백준/Baekjoon",
+    "12일까지 백준",
+    "PS/Baekjoon/10818. 최소, 최대.md",
+    "알고리즘/백준",
+    "무제 폴더",
+    "Algorithm",
+    "This/Baekjoon 추가할 파일 (3052).md",
+    "2920..md",
+    "PS/Baekjoon/무제 파일.md",
+    "자바스크립트/Learning Log.md",
+    "PS/Baekjoon/Learned.md",
+    "컴퓨터공학/자료구조/Learning Log.md",
+    "자바스크립트",
+    "컴퓨터공학/자료구조",
+    "컴퓨터공학",
+    "Images/알고리즘-20240725212152981.jpg",
+    "Images/Learning Log-20240726175942824.jpg",
+    "Images/Pasted image 20240724153608.png",
+    "Images/Pasted image 20240724153646.png",
+    "Images/Pasted image 20240725205304.png",
+    "Baekjoon/baek3052. 나머지.md",
+    "리액트.md",
+    "Memos/면접.md",
+    "Memos/알고리즘.md",
+    "자바스크립트/What I Learned.md",
+    "draft.md",
+    "자바스크립트/codingNuna.md",
+    "Yet/자료구조.md",
+    "Yet/옵시디언 꿀팁.md",
+    "Yet/git 삽질.md",
+    "Computer Science/네트워크/무제 파일.md",
+    "Yet/백준 미완.md",
+    "Yet/Gitignore 사용법.md",
+    "연결.md",
+    "Yet/Using The Obsidian.md",
+    "무제 파일.canvas",
+    "무제 파일 1-20240725205350063.jpg",
+    "Pasted image 20240620073211.png",
+    "Pasted image 20240618124604.png",
+    "Pasted image 20240708140009.png",
+    "Pasted image 20240618123550.png",
+    "무제 폴더/무제 파일.canvas"
+  ]
+}

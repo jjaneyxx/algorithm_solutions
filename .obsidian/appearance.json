@@ -1,0 +1,8 @@
+{
+  "accentColor": "#ddcc9c",
+  "theme": "moonstone",
+  "cssTheme": "Sanctum",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Inter"
+}
