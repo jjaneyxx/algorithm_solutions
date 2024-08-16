@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4e2eadd0fd987fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/baekjoon/10250. ACM 호텔.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d6c7cc4155d7c52",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/baekjoon/1152.md",
+                "file": "Algorithm/baekjoon/10250. ACM 호텔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/baekjoon/1152.md",
+                "file": "Algorithm/baekjoon/10250. ACM 호텔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/baekjoon/1152.md"
+                "file": "Algorithm/baekjoon/10250. ACM 호텔.md"
               }
             }
           },
@@ -161,9 +175,10 @@
   },
   "active": "85ee8add37e6aa62",
   "lastOpenFiles": [
+    "Algorithm/baekjoon/1152.md",
+    "Algorithm/baekjoon/10250. ACM 호텔.md",
     "12일까지 백준/Baekjoon/Learned.md",
     "12일까지 백준/Baekjoon/10818. 최소, 최대.md",
-    "Algorithm/baekjoon/1152.md",
     "알고리즘/백준/1152.md",
     "Algorithm/baekjoon",
     "gitignore",
@@ -201,7 +216,6 @@
     "Yet/백준 미완.md",
     "Yet/Gitignore 사용법.md",
     "연결.md",
-    "Yet/Using The Obsidian.md",
     "무제 파일.canvas",
     "무제 파일 1-20240725205350063.jpg",
     "Pasted image 20240620073211.png",
