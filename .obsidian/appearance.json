@@ -1,7 +1,7 @@
 {
   "accentColor": "#ddcc9c",
-  "theme": "moonstone",
-  "cssTheme": "Sanctum",
+  "theme": "obsidian",
+  "cssTheme": "GitHub Theme",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
   "textFontFamily": "Inter"
