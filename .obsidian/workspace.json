@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95359c124ab008c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/baekjoon/baek4153.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/baekjoon/무제 파일.md",
+                "file": "Algorithm/baekjoon/baek4153.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/baekjoon/무제 파일.md",
+                "file": "Algorithm/baekjoon/baek4153.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/baekjoon/무제 파일.md"
+                "file": "Algorithm/baekjoon/baek4153.md"
               }
             }
           },
@@ -185,11 +197,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "53219bdfc5be5d40",
+  "active": "95359c124ab008c7",
   "lastOpenFiles": [
-    "Algorithm/baekjoon/1152.md",
     "Algorithm/baekjoon/10250. ACM 호텔.md",
+    "Algorithm/baekjoon/baek4153.md",
     "Algorithm/baekjoon/무제 파일.md",
+    "Algorithm/baekjoon/1152.md",
     "12일까지 백준/Baekjoon/Learned.md",
     "12일까지 백준/Baekjoon/10818. 최소, 최대.md",
     "알고리즘/백준/1152.md",
@@ -227,7 +240,6 @@
     "Yet/git 삽질.md",
     "Computer Science/네트워크/무제 파일.md",
     "Yet/백준 미완.md",
-    "Yet/Gitignore 사용법.md",
     "무제 파일.canvas",
     "무제 파일 1-20240725205350063.jpg",
     "Pasted image 20240620073211.png",
