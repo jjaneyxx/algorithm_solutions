@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2b03b1717baa1bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자바스크립트/할일 앱 만들기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/baekjoon/1316. 그룹단어체커.md",
+                "file": "자바스크립트/할일 앱 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/baekjoon/1316. 그룹단어체커.md",
+                "file": "자바스크립트/할일 앱 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/baekjoon/1316. 그룹단어체커.md"
+                "file": "자바스크립트/할일 앱 만들기.md"
               }
             }
           },
@@ -185,10 +197,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "95359c124ab008c7",
+  "active": "e2b03b1717baa1bd",
   "lastOpenFiles": [
-    "Algorithm/baekjoon/baek4153.md",
     "Algorithm/baekjoon/1316. 그룹단어체커.md",
+    "자바스크립트/할일 앱 만들기.md",
+    "무제 폴더 1",
+    "무제 폴더",
+    "자바스크립트",
+    "Algorithm/baekjoon/baek4153.md",
     "Algorithm/baekjoon/10250. ACM 호텔.md",
     "Algorithm/baekjoon/1152.md",
     "12일까지 백준/Baekjoon/Learned.md",
@@ -200,7 +216,6 @@
     "12일까지 백준",
     "PS/Baekjoon/10818. 최소, 최대.md",
     "알고리즘/백준",
-    "무제 폴더",
     "Algorithm",
     "This/Baekjoon 추가할 파일 (3052).md",
     "2920..md",
@@ -209,8 +224,6 @@
     "PS/Baekjoon/Learned.md",
     "컴퓨터공학/자료구조/Learning Log.md",
     "자바스크립트",
-    "컴퓨터공학/자료구조",
-    "컴퓨터공학",
     "Images/알고리즘-20240725212152981.jpg",
     "Images/Learning Log-20240726175942824.jpg",
     "Images/Pasted image 20240724153608.png",
@@ -226,8 +239,6 @@
     "Yet/자료구조.md",
     "Yet/옵시디언 꿀팁.md",
     "Yet/git 삽질.md",
-    "Computer Science/네트워크/무제 파일.md",
-    "Yet/백준 미완.md",
     "무제 파일.canvas",
     "무제 파일 1-20240725205350063.jpg",
     "Pasted image 20240620073211.png",
